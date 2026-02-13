@@ -3,7 +3,7 @@ Artificial Intelligence Lab Programs – Python : Collection of basic AI program
 
 # 🤖 AI Lab Programs – Pseudocodes
 
-> **Course:** MLA0106 – Artificial Intelligence  
+> **Course:** MLA0106 – Artificial Intelligence with Expert Systems  
 > **Repository:** [bramhani007/MLA0106_AI](https://github.com/bramhani007/MLA0106_AI)
 
 ---
